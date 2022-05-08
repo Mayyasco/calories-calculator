@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.VBIDE.dll
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.VBIDE.dll
+C:\Users\User\Desktop\my c#\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.VBIDE.dll
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.VBIDE.dll
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\my c#\مجلد جديد\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.VBIDE.dll
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.VBIDE.dll
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.ResolveComReference.cache
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\my c#\2019\برنامج السعرات\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
